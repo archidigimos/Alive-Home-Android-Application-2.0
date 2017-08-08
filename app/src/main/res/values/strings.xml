@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alive Home(WS)</string>
+    <string name="app_label">Alive Home Tech. Pvt. Limited</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="app_description">Electrical Appliance automation using Alive Home Products</string>
+</resources>
